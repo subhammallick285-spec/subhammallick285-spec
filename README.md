@@ -121,6 +121,7 @@ Configure in Cloudflare dashboard → Workers → Settings → Variables:
 ## Author
 
 **Subham Mallick** — Full-Stack Developer  
+📍 Kendujhar, Odisha, India  
 📧 subhammallick285@gmail.com  
 🔗 [github.com/subhammallick285-spec](https://github.com/subhammallick285-spec)
 
